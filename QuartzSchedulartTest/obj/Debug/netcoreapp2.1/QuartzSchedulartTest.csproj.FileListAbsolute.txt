@@ -1,0 +1,11 @@
+D:\source\QuartzSchedulartTest\QuartzSchedulartTest\bin\Debug\netcoreapp2.1\QuartzSchedulartTest.deps.json
+D:\source\QuartzSchedulartTest\QuartzSchedulartTest\bin\Debug\netcoreapp2.1\QuartzSchedulartTest.runtimeconfig.json
+D:\source\QuartzSchedulartTest\QuartzSchedulartTest\bin\Debug\netcoreapp2.1\QuartzSchedulartTest.runtimeconfig.dev.json
+D:\source\QuartzSchedulartTest\QuartzSchedulartTest\bin\Debug\netcoreapp2.1\QuartzSchedulartTest.dll
+D:\source\QuartzSchedulartTest\QuartzSchedulartTest\obj\Debug\netcoreapp2.1\QuartzSchedulartTest.csprojAssemblyReference.cache
+D:\source\QuartzSchedulartTest\QuartzSchedulartTest\obj\Debug\netcoreapp2.1\QuartzSchedulartTest.csproj.CoreCompileInputs.cache
+D:\source\QuartzSchedulartTest\QuartzSchedulartTest\obj\Debug\netcoreapp2.1\QuartzSchedulartTest.AssemblyInfoInputs.cache
+D:\source\QuartzSchedulartTest\QuartzSchedulartTest\obj\Debug\netcoreapp2.1\QuartzSchedulartTest.AssemblyInfo.cs
+D:\source\QuartzSchedulartTest\QuartzSchedulartTest\bin\Debug\netcoreapp2.1\QuartzSchedulartTest.pdb
+D:\source\QuartzSchedulartTest\QuartzSchedulartTest\obj\Debug\netcoreapp2.1\QuartzSchedulartTest.dll
+D:\source\QuartzSchedulartTest\QuartzSchedulartTest\obj\Debug\netcoreapp2.1\QuartzSchedulartTest.pdb
